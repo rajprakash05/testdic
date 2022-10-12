@@ -1,33 +1,39 @@
 {
   "files": {
-    "main.css": "./static/css/main.5245d955.css",
-    "main.js": "./static/js/main.a2940bfd.js",
+    "main.css": "./static/css/main.59d493bd.css",
+    "main.js": "./static/js/main.96eacf83.js",
     "static/js/787.7a350ad2.chunk.js": "./static/js/787.7a350ad2.chunk.js",
     "static/media/registerRight.svg": "./static/media/registerRight.bf7a08ed3e4ee54df2b5c379138e18f7.svg",
     "static/media/diztextlogo.svg": "./static/media/diztextlogo.3456a4aa46e219b84e5f192b36f57503.svg",
     "static/media/quickonboading.svg": "./static/media/quickonboading.a693a916b23d300f6041a59b24ba3b4e.svg",
     "static/media/dizLogo.svg": "./static/media/dizLogo.964e18bb59fc1898b7103cd6dc104536.svg",
+    "static/media/mobilewavybg.svg": "./static/media/mobilewavybg.3e6c858525ca6f76884f62851db5e6d4.svg",
     "static/media/wavesbg.svg": "./static/media/wavesbg.f144a9fdc5aa73397efedfa384065a0c.svg",
     "static/media/dizlogoOrigin.svg": "./static/media/dizlogoOrigin.57c2683475ba71fa18f9baac76b42d25.svg",
     "static/media/profileDefault.svg": "./static/media/profileDefault.f913c66c75e02b05e61a4caa195e25df.svg",
     "static/media/consolidated.svg": "./static/media/consolidated.c1c6e56adf69c8c84107e4ac276a1844.svg",
     "static/media/drivenmarketing.svg": "./static/media/drivenmarketing.8e8848364b706cec64739e5db94e28ac.svg",
+    "static/media/instagram.svg": "./static/media/instagram.f29b3c77659c6cbafc1702af3fea3636.svg",
     "static/media/registerLeft.svg": "./static/media/registerLeft.9345674d36fc3a0f83e1c057850631f3.svg",
+    "static/media/twitter.svg": "./static/media/twitter.2994b841da63159b55187f6b53b5a505.svg",
     "static/media/accountTie.svg": "./static/media/accountTie.b43a959cbc849623f3151f19e010e6cf.svg",
     "index.html": "./index.html",
+    "static/media/youtube.svg": "./static/media/youtube.adc838b0c6389dc31b0fc223cefbe933.svg",
+    "static/media/facebook.svg": "./static/media/facebook.68537019e1f7466d83a5932f32745fc7.svg",
     "static/media/accountCircle.svg": "./static/media/accountCircle.78cf3ff8a7b7c50fe76e9717b3637635.svg",
+    "static/media/linkedin.svg": "./static/media/linkedin.daca1a7c3fdbd1b380d6e8e63d4947b4.svg",
     "static/media/account-multiple.svg": "./static/media/account-multiple.c67145fc028aa1bdc8fe92a9174d7435.svg",
     "static/media/setting.svg": "./static/media/setting.987cc0ddc77bbc403b66807610db4bce.svg",
     "static/media/credit-card-outline.svg": "./static/media/credit-card-outline.e1768f7529b305534cdaa4366f9b499b.svg",
     "static/media/leaf.svg": "./static/media/leaf.5e44fbf2234bad4cc25619f35c8a2a48.svg",
     "static/media/power-plug.svg": "./static/media/power-plug.cd3f8dd615824e385bdb2ecb347c64df.svg",
     "static/media/poll.svg": "./static/media/poll.4471f96cb41c20288ecbdb86f0fcc421.svg",
-    "main.5245d955.css.map": "./static/css/main.5245d955.css.map",
-    "main.a2940bfd.js.map": "./static/js/main.a2940bfd.js.map",
+    "main.59d493bd.css.map": "./static/css/main.59d493bd.css.map",
+    "main.96eacf83.js.map": "./static/js/main.96eacf83.js.map",
     "787.7a350ad2.chunk.js.map": "./static/js/787.7a350ad2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5245d955.css",
-    "static/js/main.a2940bfd.js"
+    "static/css/main.59d493bd.css",
+    "static/js/main.96eacf83.js"
   ]
 }
