@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76" height="67.363" viewBox="0 0 76 67.363">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.785" y1="1.084" x2="0" y2="0.605" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdf4d5"/>
+      <stop offset="1" stop-color="#ff9b76"/>
+    </linearGradient>
+  </defs>
+  <g id="Component_93_1" data-name="Component 93 – 1" transform="translate(0)">
+    <g id="Group_4528" data-name="Group 4528" transform="translate(-30.5 -400)">
+      <path id="Intersection_1" data-name="Intersection 1" d="M7,67.363a4,4,0,0,1-4-4V26.832a4.169,4.169,0,0,1,5.333,4V50H10A10.029,10.029,0,0,1,20,60h3.334A13.358,13.358,0,0,0,11.667,46.766V10.833a4.167,4.167,0,1,1,8.333,0V36.666h3.334V4.166a4.167,4.167,0,0,1,8.333,0v32.5H35V9.167a4.167,4.167,0,1,1,8.333,0V40h3.334V19.166a4.167,4.167,0,1,1,8.333,0V52.5a27.383,27.383,0,0,1-4.353,14.864Z" transform="translate(27.5 400)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_4527" data-name="Group 4527" transform="translate(-20 -400.637)">
+      <g id="Rectangle_2879" data-name="Rectangle 2879" transform="translate(48 436)" fill="#fff5e5" stroke="rgba(255,155,118,0.3)" stroke-width="0.4">
+        <rect width="48" height="17" rx="8.5" stroke="none"/>
+        <rect x="0.2" y="0.2" width="47.6" height="16.6" rx="8.3" fill="none"/>
+      </g>
+      <text id="REFUSE" transform="translate(52 440)" fill="#ff9b76" font-size="8" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="5" y="8">REFUSE</tspan></text>
+    </g>
+  </g>
+</svg>
